@@ -1,7 +1,7 @@
-use <C:\Users\julie\Desktop\pieces_3D_openscad\brique_ajustable\bloc_brique.scad>
-use <C:\Users\julie\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\uno\carte_uno.scad>
-use <C:\Users\julie\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\visserie\M2.scad>
-use <C:\Users\julie\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\pile\pile_9v.scad>
+use <C:\Users\"VOTRE NOM UTILISATEUR"\Desktop\pieces_3D_openscad\brique_ajustable\bloc_brique.scad>
+use <C:\Users\"VOTRE NOM UTILISATEUR"\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\uno\carte_uno.scad>
+use <C:\Users\"VOTRE NOM UTILISATEUR"\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\visserie\M2.scad>
+use <C:\Users\"VOTRE NOM UTILISATEUR"\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\pile\pile_9v.scad>
 
 include <MCAD/boxes.scad>;
 
