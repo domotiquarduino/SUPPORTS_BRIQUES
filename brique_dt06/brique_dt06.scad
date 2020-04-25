@@ -1,5 +1,5 @@
-use <C:\Users\VOTRE NOM UTILISATEUR\Desktop\pieces_3D_openscad\brique_ajustable\bloc_brique.scad>
-use <C:\Users\VOTRE NOM UTILISATEUR\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\pcb_dt06\pcb_dt06.scad>
+use <C:\Users\"VOTRE NOM UTILISATEUR"\Desktop\pieces_3D_openscad\brique_ajustable\bloc_brique.scad>
+use <C:\Users\"VOTRE NOM UTILISATEUR"\Desktop\pieces_3D_openscad\PIECES_ELECTRONIQUES\pcb_dt06\pcb_dt06.scad>
 
 hauteur_brique  = 1; // 1,2 ou 3
 
